@@ -1,2 +1,2 @@
 # new-repository
-dome
+git-hub
